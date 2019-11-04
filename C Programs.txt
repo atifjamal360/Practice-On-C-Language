@@ -1,0 +1,83 @@
+1)Write a c program to print Fibonacci series of given range.
+2)Write a c program to reverse any number.
+3)Write a c program to check given number is prime number or not.
+4)Write a c program to check given number is palindrome number or not.
+5)C program to count number of digits in a number.
+6)Program to find largest of n numbers in c.
+7)Split number into digits in c programming.
+8)Write a c program to swap two numbers without using third variable.
+9)Write a c program to convert the string from upper case to lower case and lower case to upper case.
+10)Write a c program to count the different types of characters in given string.
+11)Write a c program to reverse a string but without using string.h header file.
+12)Write a c program to find out sum of diagonal element of a matrix.
+13)Write a c program to find out multiplication of two matrices and then find transport of a resultant matrix .
+
+14)Write a c program to check whether a number is strong or not
+Definition of strong number:
+A number is called strong number if sum of the factorial of its digit is equal to number itself. For example: 145 since
+1! + 4! + 5! = 1 + 24 + 120 = 145
+
+15)C program for finding Armstrong numbers
+Definition according to c programming point of view:
+THOSE NUMBERS WHICH SUM OF THE CUBE OF ITS DIGITS IS EQUAL TO THAT NUMBER ARE KNOWN AS ARMSTRONG NUMBERS. FOR EXAMPLE 153 SINCE 1^3 + 5^3 + 3^3 = 1+ 125 + 9 =153
+OTHER ARMSTRONG NUMBERS: 370,371,407 ETC.
+
+16) C program to check perfect number
+Definition of perfect number or What is perfect number? 
+Perfect number is a positive number which sum of all positive divisors excluding that number is equal to that number. For example 6 is perfect number since divisor of 6 are 1, 2 and 3.  Sum of its divisor is
+1 + 2+ 3 =6
+
+17)Write a c program for insert an element at desired position in an array.
+18)C program to find largest and smallest number in an array
+19) Write a c program for concatenation two string using pointer.
+20) Write a c function for swapping two variables hint you can't do without using pointer.
+21). Write a c program which deletes the duplicate element of an array.
+22). Write a c program for delete an element at desired position in an array.
+
+23)
+	1			  1
+      2 3 2
+    3 4 5 4 3
+  4 5 6 7 6 5 4
+5 6 7 8 9 8 7 6 5
+
+24)
+	
+           1
+         1   1
+       1   2   1
+     1   3   3    1
+   1  4    6   4   1
+ 1  5   10   10  5   1 
+
+25)
+
+     A
+    ABA
+   ABCBA
+  ABCDCBA
+   ABCBA
+    ABA
+     A
+
+26)
+
+9
+0 1
+2 3 4
+5 6 7 8
+9 0 1 2 3
+
+27)
+ABCBA
+AB BA
+A   A
+AB BA
+ABCBA
+
+28)
+1
+1 4 9
+1 4 9 16 25
+1 4 9 16 25 36 49
+1 4 9 16 25 36 49 64 81
